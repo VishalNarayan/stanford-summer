@@ -1,6 +1,7 @@
 # stanford-summer
 Vishal Narayan
 Work Sample for Stanford Summer Institutes
+
 The portfolio contains two projects that I worked on in the AP Computer Science class, and the details of each is listed below.
 
 PALINDROME
